@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37020'
     url: http://www.gutenberg.org/2009/agents/37020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34435#Le-Syst-me-Solaire-se-mouvant
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Astronomy
